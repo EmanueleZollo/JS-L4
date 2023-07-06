@@ -190,4 +190,4 @@ let randArray = []
     return randArray;
  }
 
- console.log(giveMeRandom(7));
+ console.log(giveMeRandom(8));
